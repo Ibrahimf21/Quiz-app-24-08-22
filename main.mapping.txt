@@ -1,0 +1,27 @@
+Done-
+
+01- Creat json object for qusetions
+02- Start creating Html markup
+03- add dummy data
+04- Creat the styling
+
+
+in progress
+05- fetch number qustions from jison object
+06- show questions count + questions category
+07- so wthe number of bullets debend on  questions count 
+08- set the number for the right and rong answers
+09- creat count timer
+10- fetch the questions from the json object
+11- show first questions 
+12- check answers and hide qusetion and show next one
+13- if the tim end mark the qusetion as wrong and show next questions
+14- add class on bullet after answering the question
+15- if questions fineshed show the results
+
+ideas
+-many json object and choose language
+-add many questions and choose only 10 randomly
+-randomise answers (shuffle function)
+
+-make my questions dynamically
